@@ -11,5 +11,5 @@ $ npm install
 ```
 $ npm start
 ```
-#### Spreadsheet app opens in http://localhost:3000 to view it in the browser
+#### Spreadsheet app opens in http://localhost:3000 
 
