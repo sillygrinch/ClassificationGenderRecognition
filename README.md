@@ -1,15 +1,15 @@
 # ClassificationGenderRecognition
-### Clone the app
+#### Clone the app
 ```
 $ git clone ‘the code URL of the github repo’
 ```
-### Run
+#### Run
 ```
 $ npm install
 ```
-### Run
+#### Run
 ```
 $ npm start
 ```
-### Spreadsheet app opens in http://localhost:3000 to view it in the browser
+#### Spreadsheet app opens in http://localhost:3000 to view it in the browser
 
