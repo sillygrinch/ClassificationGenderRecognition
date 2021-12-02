@@ -1,2 +1,8 @@
 # ClassificationGenderRecognition
-$ ./build.sh && ./preview.sh
+```
+$ npm install
+```
+```
+$ npm start
+```
+
